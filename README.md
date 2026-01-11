@@ -77,3 +77,7 @@ Inputs are scaled using the StandardScaler.
 The model predicts Suitable or Not Suitable.
 
 Result is displayed on the app.
+
+
+streamlint.app  https://gidiiketer1-capstone123-app-qpg3tc.streamlit.app/
+## Installation
